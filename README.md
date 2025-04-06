@@ -1,7 +1,7 @@
 
  🌦️ Weather Data Visualization Project
 
-This project presents a **visual analysis of a month's weather data using Python, NumPy, and Matplotlib.  
+This project presents a visual analysis of a month's weather data using Python, NumPy, and Matplotlib.  
 It is ideal for demonstrating skills in data analysis, visual storytelling, and dashboard creation with graphs and charts.
 
 ---
