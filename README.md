@@ -66,7 +66,7 @@ To analyze and visually represent:
 
 📁 Files Included
 
--weather_analysis.ipyn → Main Jupyter Notebook
+- weather_analysis.ipynb → Main Jupyter Notebook
 - README.md → Project Summary and Details
 
 ---
